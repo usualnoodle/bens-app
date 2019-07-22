@@ -18,7 +18,7 @@ function Index() {
       </Head>
       <h1>Bens App</h1>
       <h2>
-        We are trying to deploy!!!
+        We are trying to deploy!!! Get some.
       </h2>
       <p>
         <a
