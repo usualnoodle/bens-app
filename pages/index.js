@@ -14,19 +14,11 @@ function Index() {
   return (
     <main>
       <Head>
-        <title>Next.js + Node API</title>
+        <title>Bens Application</title>
       </Head>
-      <h1>Next.js + Node.js API</h1>
+      <h1>Bens App</h1>
       <h2>
-        Deployed with{' '}
-        <a
-          href="https://zeit.co/docs"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          ZEIT Now
-        </a>
-        !
+        We are trying to deploy!!!
       </h2>
       <p>
         <a
